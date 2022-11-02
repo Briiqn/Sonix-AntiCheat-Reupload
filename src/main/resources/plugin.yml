@@ -1,0 +1,9 @@
+main: me.sonix.Main
+name: Sonix
+version: 0.2.0.23
+api-version: 1.13
+authors: [Stelios]
+depend: [ProtocolLib]
+commands:
+  sonix:
+    description: sex is overrated
